@@ -9,7 +9,9 @@ Evaluation Metric
 AUC-ROC score - 
 
 Data information - For Data information you can go through - Data Understanding Excel sheet.
+
 Univariate Analysis - For univariate analysis you can go through - Univariate_train_indess sheet. 
+
 Bivariate Analysis - For Bivariate Analysis you can go through - Data Analysis Jupyter notebook file. 
 
 ### For overall analysis you can go through SWEETVIZ_REPORT.html file - Automated Vizulization 
@@ -23,6 +25,6 @@ For Data prepration and modelling part you can go through - Data Prep and modell
 
 - Both the models works well. 
 - there are 2 submission file - we can use - catboost_submission.csv 
-- The prediction is based on probablity scores - loan_amount > 0.5 is Defaulter(1) and loan_amount < 0.5 is Non Defaulters(0).
+- The prediction is based on probability scores - loan_amount > 0.5 is Defaulter(1) and loan_amount < 0.5 is Non Defaulters(0).
 
 
