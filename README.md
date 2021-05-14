@@ -21,7 +21,9 @@ For Data prepration and modelling part you can go through - Data Prep and modell
 
 ![](anurag4646/Loan_Status_Classification/Roc Curve.png)
 
-![Uploading image.png…]()
+
+![Alt text](anurag4646/Loan_Status_Classification/Roc Curve.png "ROC AUC")
+
 
 - Both the models works well. 
 - there are 2 submission file - we can use - catboost_submission.csv 
