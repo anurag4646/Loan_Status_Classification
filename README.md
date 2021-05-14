@@ -18,13 +18,15 @@ Bivariate Analysis - For Bivariate Analysis you can go through - Data Analysis J
 
 For Data prepration and modelling part you can go through - Data Prep and modelling Jupyter notebook. 
 
-- This task is based on calssification problem ( Imbalanced Target - 0 - 76% and 1- 23% aprox ). I have tried to use important variables. 
-- I have tried Light GBM and CatBoost Classifier and compare the ROC. 
-
+- This task is based on calssification problem ( Imbalanced Target - 0 - 76% and 1- 23% aprox ). 
+- Here are the submission of best 2 models that is - CatBoost Classifier and LightGBM.  
+- Comparision of ROC AUC score - 
 ![](ROC%20Curve.png)
+- Feature Importance - 
+![](Feature_Importance.png)
 
 - Both the models works well. 
-- there are 2 submission file - we can use - catboost_submission.csv 
+- there are 2 submission file - use - "catboost_submission.csv" 
 - The prediction is based on probability scores - loan_amount > 0.5 is Defaulter(1) and loan_amount < 0.5 is Non Defaulters(0).
 
 
