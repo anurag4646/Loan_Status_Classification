@@ -14,7 +14,7 @@ Univariate Analysis - For univariate analysis you can go through - Univariate_tr
 
 Bivariate Analysis - For Bivariate Analysis you can go through - Data Analysis Jupyter notebook file. 
 
-### For overall analysis you can go through SWEETVIZ_REPORT.html file - Automated Vizulization 
+### For overall analysis you can go through SWEETVIZ_REPORT.html file - Automated visualization 
 
 For Data prepration and modelling part you can go through - Data Prep and modelling Jupyter notebook. 
 
