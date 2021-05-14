@@ -19,6 +19,8 @@ For Data prepration and modelling part you can go through - Data Prep and modell
 - This task is based on calssification problem ( Imbalanced Target - 0 - 76% and 1- 23% aprox ). I have tried to use important variables. 
 - I have tried Light GBM and CatBoost Classifier and compare the ROC. 
 
+![](anurag4646/Loan_Status_Classification/Roc Curve.png)
+
 ![Uploading image.png…]()
 
 - Both the models works well. 
